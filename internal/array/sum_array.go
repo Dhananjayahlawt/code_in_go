@@ -1,4 +1,4 @@
-package array
+package arrays
 
 func sumArray(arr []int) int {
 	var sum int

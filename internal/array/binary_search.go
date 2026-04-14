@@ -1,4 +1,4 @@
-package array
+package arrays
 
 func binarySearch(arr []int, item, start, end int) bool {
 	if start > end {
